@@ -1,0 +1,49 @@
+{
+"career":{
+  "info" :"To pursue a challenging career and be a part of progressive organization"
+},
+"education":[
+  {
+    "degree":"s.s.c",
+    "school":"RAVINDRA",
+    "data":["2013","93"]
+  },
+  {
+    "degree":"Intermediate",
+    "school":"NARAYANA",
+    "data":["2015","93"]
+  },
+  {
+    "degree":"Engineering",
+    "school":"GPCET",
+    "data":["2015-2019","65"]
+
+  }
+],
+"skills":[
+{
+  "name":"languages",
+  "info":["R","C#","JAVA","PYTHON","C++","PHP"]
+},
+{
+  "name":"operating sysyem",
+  "info":["win-10","fedro","redHat","ubuntu"]
+},
+{
+  "name":"Data Bases",
+  "info":["MYSQL","mangoDB","ORACLE","PHD"]
+},
+{
+  "name":"Web Technologies",
+  "info":["HTML","JAVASCRIPT","CSS"]
+},
+{
+  "name":"FrameWorks",
+  "info":[".Net","Bootstrap","CodeIgniter"]
+},
+{
+  "name":"Libraries",
+  "info":["Jquery"]
+}
+]
+}
